@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #213e6b;
+    max-width: 100% !important;
+   
+}
+.part1-p2{
+    background-color:#acd5de;
+    margin-right: 0;
+}
+.btn{
+    background-color: #213e6b !important;
+    border: none !important;
+}
+.btn:hover {
+    background-color: #213f6bb7 !important;
+}
+.card{
+ transition: 0.3s;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.carth{
+    color: #213e6b;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.totalprice{
+    margin-top: 100px;
+}
+.tp{
+    color: #213e6b;
+    font-weight: bold;
+    font-size: 17px;
+}
+#check-btn{
+    margin-top: 30px;
+    display: none;
+    margin-left: 200px;
+}
+#price{
+    font-weight: 20px;
+    font-weight: bold;
+
+}
